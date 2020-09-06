@@ -52,7 +52,7 @@ else{
         <form action="trans.php" method="post">
           <div class="form_settings">
             <p><span><strong>Email</strong></span><input type="text" name="username" value="" /></p><br><br>
-            <p><span><strong>Ammount</strong></span><input type="password" name="password" value="" /></p><br><br>
+            <p><span><strong>Ammount</strong></span><input type="text" name="amount" value="" /></p><br><br>
             <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="name" value="submit" /></p>
           </div>
         </form><br><br>
